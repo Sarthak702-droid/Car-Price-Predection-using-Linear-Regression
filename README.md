@@ -67,7 +67,3 @@ Users can input car features (mileage, year, fuel type, etc.) and get predicted 
 * Try other models (Random Forest, XGBoost)
 * Improve accuracy with feature engineering
 * Deploy on web (Streamlit / Flask / FastAPI)
-
----
-
-Do you want me to also **generate a `requirements.txt` file** for this project so you can directly push it to GitHub?
